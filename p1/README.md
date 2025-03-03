@@ -57,5 +57,5 @@ Node(double x, double y): Creating a new node. Called by Linked_list::Spawn so t
 Operator Override 
 None.
 UML Class diagram 
-![alt text](https://github.com/rainluo1/DSAProjects1/blob/p1/image1.png?raw=true)
+![alt text](https://github.com/rainluo1/DSAProjects1/p1/image1.png?raw=true)
 
