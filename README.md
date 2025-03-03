@@ -17,7 +17,7 @@ Each project includes:
 
 ## How to Navigate
 
-- **Project Folders**: Each project is contained in its own folder with source code, reports, and analysis.
+- **Project Folders**: Each project (labelled by pX) is contained in its own folder with source code, reports, and analysis.
 - **Documentation**: Detailed readmes and reports in each folder provide insight into the design decisions and performance metrics.
 
 ## Getting Started
